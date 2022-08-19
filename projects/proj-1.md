@@ -7,8 +7,8 @@ Developed within the Unity Engine from the ground-up and seeking to give a playe
 
 A working demo of the game is still being worked on, and will be uploaded to here as soon as it is ready. Stay tuned!
 
-Development posts can be found in the [Blog] (https://venommaximus.github.io/blog) section of my site.
+Development posts can be found in the [Blog](https://venommaximus.github.io/blog) section of my site.
 
 Below is a link to the post that holds all of the various excerpts from the tabletop campaign that inspired the game.
 
-{% include image.html url="TABLETOP POST HERE" image="projects/proj-1/tabletop.jpg" %}
+{% include image.html url="https://venommaximus.github.io/untold-soul-tabletop" image="projects/proj-1/tabletop.jpg" %}
