@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tanya's Concert
+title: 'Tanya's Concert'
 ---
 
 **Tanya's Concert** is an in-progress adventure game built within RPG Maker MZ. Currently, the game uses plenty of placeholder assets from the game *Umineko no Naku Koro ni*, specifically the two PS3 remakes produced by Alchemist in 2010 and 2011.
