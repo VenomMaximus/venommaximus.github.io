@@ -4,6 +4,12 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# About
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Welcome to my website! I’m Brent Horne, an aspiring game designer and writer who has worked on many different projects both in my free time and during my education in university.
+
+I have a deep level of admiration for the design process, as well as the intricacies that go into planning and management. As a result, I always like to have a great deal of attention to detail for any project I start. This becomes readily apparent within lengthy design documents and thorough issue tracking.
+
+A lot of the projects I have worked on are available for viewing within my [Blog](#), with my favorites displayed on the main page of this site.
+
+Feel free to contact me for any work opportunities or questions about my current projects.

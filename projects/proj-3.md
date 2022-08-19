@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Project Three'
+title: 'Tanya's Concert
 ---
 
-Donec condimentum a leo nec posuere. Vestibulum faucibus leo nec nisl varius vestibulum. Aenean vel quam semper, vestibulum augue at, rutrum ligula. Ut gravida, ex sit amet fringilla luctus, lorem quam mollis elit, et tristique leo urna non odio. Curabitur elementum viverra consequat. Vestibulum vitae dolor tristique, pellentesque metus non, suscipit nunc. Aenean id sem eu libero sodales dignissim eget quis quam. Phasellus quis lectus ac odio convallis luctus. Praesent sed ligula ipsum. Nullam ultricies nunc nec turpis porttitor elementum. Vestibulum vitae imperdiet elit, nec mattis magna. Vestibulum id neque nec turpis ullamcorper rutrum ac non ligula. Quisque nec pellentesque diam. Vestibulum at aliquam mi, vitae fringilla quam. Suspendisse potenti.
+**Tanya's Concert** is an in-progress adventure game built within RPG Maker MZ. Currently, the game uses plenty of placeholder assets from the game *Umineko no Naku Koro ni*, specifically the two PS3 remakes produced by Alchemist in 2010 and 2011.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" %}
+Tanya's Concert is my first attempt at using RPG Maker to create a game, and I am quickly teaching myself various different aspects of it while also working on Untold Soul. Tanya's Concert is set to be a project that can display my own solo skills as a designer, as it is being produced entirely by myself barring all art assets.
