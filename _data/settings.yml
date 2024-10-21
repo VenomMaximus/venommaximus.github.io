@@ -11,9 +11,8 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Untold Soul',   url: 'proj-1'}
-- {name: 'Quest for Glory',   url: 'proj-2'}
-- {name: "Tanya's Concert", url: 'proj-3'}
+- {name: 'KaiserreduX - German Rework',   url: 'proj-1'}
+- {name: 'Untold Soul',   url: 'proj-2'}
 
 #-------------------------------
 # Contact Section
