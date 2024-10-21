@@ -3,7 +3,7 @@ layout: post
 title: "Vector Project"
 ---
 
-{% include image.html image="posts/post-3/post-header.jpg" %}
+![Vector Header](/assets/img/posts/post-3/post-header.jpg)
 
 My final assignment for the class of February revolved around using vectors and raycasts in order to create a functioning game. These were very new concepts to me, and I had a bit of trouble with understanding them at first.
 

@@ -5,7 +5,7 @@ title: "Tragedy of Lazou-Polis"
 
 ## Tragedy of Lazou-Polis
 
-{% include image.html image="posts/post-2/post-header.jpg" %}
+![Tragedy Header](/assets/img/posts/post-2/post-header.jpg)
 
 Early on in my degree we were tasked with experimenting with Unity, but we were also tasked with using the program Twine in order to create a “choose your own adventure” style of game. The assignment itself was fairly simple and involved just making a few branching paths and some fail-states and including a method to restart the game once the player had died.
 

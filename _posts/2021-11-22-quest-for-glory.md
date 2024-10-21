@@ -3,7 +3,7 @@ layout: post
 title: "Quest for Glory"
 ---
 
-{% include image.html image="posts/post-6/post-header.jpg" %}
+![QfG Header](/assets/img/posts/post-6/post-header.jpg)
 
 The final project of my degree involved recreating an existing game, and the team I had chosen for myself had picked “Quest for Glory” by Sierra as our reference game. It would involve months of work and ultimately act as the final test in order to earn my degree.
 

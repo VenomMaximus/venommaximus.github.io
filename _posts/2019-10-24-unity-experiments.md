@@ -3,7 +3,7 @@ layout: post
 title: "Unity Experiments"
 ---
 
-{% include image.html image="posts/post-1/post-header.jpg" %}
+![Unity Header](/assets/img/posts/post-1/post-header.jpg)
 
 #### My Beginnings in Game Development
 
