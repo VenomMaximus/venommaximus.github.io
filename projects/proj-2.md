@@ -9,4 +9,4 @@ A working demo of the game is still being worked on, and will be uploaded to her
 
 Below is a link to the post that holds all of the various excerpts from the tabletop campaign that inspired the game.
 
-{% include image.html url="https://venommaximus.github.io/untold-soul-tabletop" image="projects/proj-1/tabletop.jpg" %}
+{% include image.html url="https://venommaximus.github.io/untold-soul-tabletop" image="projects/proj-2/tabletop.jpg" %}
