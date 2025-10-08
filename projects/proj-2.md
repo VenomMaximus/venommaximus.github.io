@@ -24,6 +24,8 @@ I worked to ensure this content was relevant for the real-life historical figure
 
 I had additionally made military trees for New England, a state propped up by the Kingdom of Canada during the Second American Civil War, and the Black Belt Republic, an African-American state formed to end their oppression at the hands of the Constitutional American Republic.
 
+![NewEnglandTree](/assets/img/projects/proj-2/newengland.jpg)
+
 ## Götterdämmerung Update
 
 Mods like KaiserreduX must update alongside the base game's own updates, such as it was when Hearts of Iron IV had the [No Step Back](https://store.steampowered.com/app/1348661/Expansion__Hearts_of_Iron_IV_No_Step_Back/) update in November 2021. When the [Götterdämmerung](https://store.steampowered.com/app/3152780/Expansion__Hearts_of_Iron_IV_Gtterdmmerung/) DLC was released, many new features were added to the base game as well as with the DLC itself, such as special projects, research facilities, scientists, and an overhaul to missiles.
