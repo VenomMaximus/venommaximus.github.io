@@ -18,13 +18,13 @@ This is definitively shown through my rework of the military tree for the Americ
 
 I worked to ensure this content was relevant for the real-life historical figures I was using, such as it was with me ensuring Marine Corps general "Chesty" Puller's content related to the history of the USMC, and I also decided to shed light on lesser-known parts of relevant American history, such as the military's usage of Native American "code talkers" to increase their encryption over military communications.
 
-![AUSDescs](/assets/img/projects/proj-2/ausfocus.jpg)
+![AUSDescs](https://i.imgur.com/qPzwiqk.jpeg)
 
 I had additionally made military trees for New England, a state propped up by the Kingdom of Canada during the Second American Civil War, and the Black Belt Republic, an African-American state formed to end their oppression at the hands of the Constitutional American Republic.
 
 ![NewEnglandTree](/assets/img/projects/proj-2/newengland.jpg)
 
-![BBRTree](/assets/img/projects/proj-2/bbr.jpg)
+![BBRTree](https://i.imgur.com/uSFPRu9.jpeg)
 
 ## Götterdämmerung Update
 

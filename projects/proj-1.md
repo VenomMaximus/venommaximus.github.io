@@ -55,7 +55,7 @@ As before with the military tree, the political tree also has lengthy descriptio
 
 As a big part of KaiserreduX's gameplay involves the Second Weltkrieg, the alternative history world's own version of World War 2, I had decided that the ending of this war needed special attention. As a result, I had added various unique endings to the nations that the player may defeat in the war based on the route the player was undertaking.
 
-![FrenchPup](https://imgur.com/a/GYX0h77)
+![FrenchPup](https://i.imgur.com/1n2E2bA.jpeg)
 
 This are but a few of the unique officials that the player can appoint into France upon defeating it. I have also added these unique puppets to the United Kingdom and Russia.
 
